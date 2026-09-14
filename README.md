@@ -45,15 +45,15 @@
 ```
 *🔍 How It Works*
 
-1. *Monitoring:*The tool enters an infinite loop with a 1-second sleep interval (configurable).
-2. *Detection:*It reads the system clipboard and applies a complex Regex pattern to identify Bitcoin (Legacy, SegWit, and Bech32) addresses.
-3. *Logic Branching:*If the clipboard contains only a valid address
+1. **Monitoring:**The tool enters an infinite loop with a 1-second sleep interval (configurable).
+2. **Detection:**It reads the system clipboard and applies a complex Regex pattern to identify Bitcoin (Legacy, SegWit, and Bech32) addresses.
+3. **Logic Branching:**If the clipboard contains only a valid address
 
 ```bash → ``` Replace it.
 If the clipboard contains a sentence with an address
 ```bash → ``` Perform an in-place replacement of the address while keeping the sentence intact.
 
-*📜 License*
+**📜 License**
 
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
 
