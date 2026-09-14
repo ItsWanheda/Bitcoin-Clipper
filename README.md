@@ -1,4 +1,4 @@
-# 🚀 Go-Bitcoin-Clipper (Educational Research Tool)
+# 🚀Bitcoin-Clipper (Educational Research Tool)
 
 ![Go Version](https://img.shields.io/badge/go-%3E%3D1.18-blue.svg)
 ![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)
@@ -32,7 +32,7 @@
 ### Installation & Running
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/yourusername/go-bitcoin-clipper.git
+   git clone https://github.com/ItsWanheda/bitcoin-clipper.git
    cd go-bitcoin-clipper
 ```
 2. **Initialize modules:**
